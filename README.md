@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-identify-a-common-task-that-might-occur-regularly
+<br>
+Identify a common task that might occur regularly. The task should be one that might occur in a business setting rather than one in someone’s personal life.Create a 1-page Microsoft® Word document that lists the 15 to 20 steps required to perform the identified task. The steps should be written in a clear and easy-to-read format so that someone else could complete them without further explanation. When describing the steps:They should be observableUse an active verb and object format (“Open the desk drawer”, “Ask the user for the amount”)
